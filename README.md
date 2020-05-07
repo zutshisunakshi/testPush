@@ -1,5 +1,5 @@
-Medium-sized Repository for ADO to GitHub Migration testing
-This repository has been setup to exercise the different features of the ADO -> GitHub migration tool. It is owned by the GitHub Inside Microsoft team. The text below is intentionally boiler-plate Lorem ipsum.
+Small-sized Repository for ADO to GitHub Migration testing
+The text below is intentionally boiler-plate Lorem ipsum.
 
 Lorem ipsum...
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est ullamcorper eget nulla facilisi. Consectetur adipiscing elit pellentesque habitant morbi tristique. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat. Ullamcorper velit sed ullamcorper morbi tincidunt. Turpis egestas maecenas pharetra convallis. Nulla malesuada pellentesque elit eget gravida cum sociis natoque. Sed euismod nisi porta lorem mollis aliquam ut porttitor. Mi proin sed libero enim sed faucibus turpis in. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Facilisi nullam vehicula ipsum a arcu cursus vitae. Nulla porttitor massa id neque aliquam vestibulum morbi blandit cursus. Quis blandit turpis cursus in hac habitasse.
